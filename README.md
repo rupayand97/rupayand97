@@ -23,7 +23,7 @@ I'm a web developer passionate about crafting intuitive, scalable, and efficient
 Building modern web applications using:
 - 🧱 **HTML**, **CSS**
 - 🎨 **Tailwind CSS**
-- ⚛️ **React.js**
+- ⚛️ **javaScript**,**TypeScript**,**React.js**
 - 🛠️ **Node.js**, **Express.js**
 - 🗄️ **MongoDB**
 
